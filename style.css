@@ -1,9 +1,9 @@
 body {
   height: 1200px;
-  background: linear-gradient(450deg, #660BAB, #c300c3);
+  background: linear-gradient(600deg, #660BAB, #c300c3);
   }
   H1 {
-    background: linear-gradient(450deg, #6800f1, #c38500 );
+    background: linear-gradient(600deg, #6800f1, #c38500 );
     font-size: 500%;
     font-family: Arial, Verdana, sans-serif;
     text-align: center;
