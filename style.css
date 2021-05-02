@@ -1,9 +1,11 @@
 body {
   width: 1250px;
-  background: linear-gradient(450deg, #5b00c3, #6202cf);
+  background:linear-gradient(450deg, #c3000070, #6202cf9a);
   }
   H1 {
+    background-clip: text;
     background: linear-gradient(450deg, #6800f1, #c38500 );
+    
     font-size: 500%;
     font-family: Arial, Verdana, sans-serif;
     text-align: center;
@@ -11,3 +13,18 @@ body {
   P {
     padding-left: 20px;
   }
+  .transparent-text {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: #2E2F45;
+    display: table;
+    margin: 20px auto;
+    color: white;
+    border-radius: 5px;
+    mix-blend-mode: multiply;
+    padding: 5px 10px;
+  }
+  .center-pic{
+    text-align:center;
+    }
