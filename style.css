@@ -1,13 +1,30 @@
 body {
-  height: 1200px;
-  background: linear-gradient(450deg, #660BAB, #c300c3);
+  width: 1250px;
+  background: #e79b7c
   }
   H1 {
+    background-clip: text;
     background: linear-gradient(450deg, #6800f1, #c38500 );
+    
     font-size: 500%;
     font-family: Arial, Verdana, sans-serif;
     text-align: center;
   }
-  P {
+  .p {
     padding-left: 20px;
   }
+  .transparent-text {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: #2E2F45;
+    display: table;
+    margin: 20px auto;
+    color: white;
+    border-radius: 5px;
+    mix-blend-mode: multiply;
+    padding: 5px 10px;
+  }
+  .center-pic{
+    text-align:center;
+    }
