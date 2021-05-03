@@ -10,7 +10,7 @@ body {
     font-family: Arial, Verdana, sans-serif;
     text-align: center;
   }
-  P {
+  .center-pic {
     padding-left: 20px;
   }
   .transparent-text {
