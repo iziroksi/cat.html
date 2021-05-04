@@ -140,6 +140,6 @@ display: block;
 */
 @media screen and (max-width: 400px) {
       .tabs>label {
-              padding: 15px;
+padding: 15px;
       }
 }
